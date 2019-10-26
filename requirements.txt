@@ -2,3 +2,4 @@ tensorflow
 tensorflow_datasets
 matplotlib
 scipy
+pandas
